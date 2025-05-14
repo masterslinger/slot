@@ -25,113 +25,99 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  
-  <title>SEC WEEKLY SCHEDULE</title>
-  <link rel="icon" href="">
-</head>
-<body>
-    <center><img src="/static/logo.png"width="540" height="100"</center>
-  <table border="5" cellpadding="20">
-    <caption><h3>WEEKLY SCHEDULE FEB 2025 - SHRIRAM V R (24004372)</caption></h3>
-    <tr bgcolor="sky blue" style="color: rgb(0, 7, 7);">
-      <th>TIME</th><th>SUN</th><th>MON</th><th>TUES</th><th>WED</th><th>THURS</th><th>FRI</th><th>SAT</th>
-    </tr>
-    <tr>
-      <td bgcolor="#FEBA17" style="color: rgb(0, 7, 7);">8AM - 10AM</td><td bgcolor="black"></td><td bgcolor="PaleGreen">Communicative English</td><td bgcolor="white"</td><td bgcolor="plum">Digital Electronics</td><td bgcolor="white"></td><td bgcolor="white"></td><td bgcolor="white"></td>
-  
-    </tr>
-    <tr>
-        <td bgcolor="#FEBA17" style="color: rgb(1, 14, 14);">10AM - 12PM</td><td bgcolor="black"></td><td bgcolor="D4F6FF">Reasoning Ability</td><td bgcolor="plum">Digital Electronics</td><td bgcolor="#DCA06D">Fundamentals of Web Development</td><td bgcolor="LightSalmon">Python Programminng</td><td bgcolor="LightSalmon">Python Programminng</td><td bgcolor="white"></td>
-    </tr>
-    <tr>
-      <td bgcolor="#FEBA17" style="color:rgb(0, 3, 3);">1PM - 3PM</td><td bgcolor="black"></td><td bgcolor="white"></td><td bgcolor="LightSkyBlue">Probability</td><td bgcolor="57B4BA">Mentor Meet</td><td bgcolor="PaleGreen">Communicative English</td><td bgcolor="LightSkyBlue">Probability</td><td bgcolor="white"></td>
-    </tr>
-    <tr>
-      <td bgcolor="#FEBA17" style="color:rgb(0, 3, 3);">3PM - 5PM</td><td bgcolor="black"></td><td bgcolor="white"></td><td bgcolor="#FFF085">Chemistry</td><td bgcolor="white"></td><td bgcolor="#FFF085">Chemistry</td><td bgcolor="#DCA06D">Fundamentals of Web Development</td><td bgcolor="white"></td>
-    </tr>
-
-  </table>
-  <!DOCTYPE html>
+<! DOCTYPE html>
 <html>
 <head>
-  <title>Subject List</title>
-  <style>
-    table {
-      border-collapse: collapse;
-      width: 50%;
-    }
-
-    th, td {
-      border: 5px solid black;
-      padding: 20px;
-      text-align: left;
-    }
-
-    th {
-      background-color: #FEBA17;
-    }
-  </style>
+<TITLE>SLOT TIMETABLE</TITLE>
 </head>
 <body>
-
-<h2>Subject List</h2>
-
-<table>
-  <tr>
-    <th>S. No.</th>
-    <th>Subject Code</th>
-    <th>Subject Name</th>
-  </tr>
-  <tr>
-    <td>1.</td>
-    <td>19A1414</td>
-    <td>Fundamentals of Web Application Development</td>
-  </tr>
-  <tr>
-    <td>2.</td>
-    <td>19EY709</td>
-    <td>Reasoning Ability</td>
-  </tr>
-  <tr>
-    <td>3.</td>
-    <td>19MA222</td>
-    <td>Probability and Queing Models</td>
-  </tr>
-  <tr>
-    <td>4.</td>
-    <td>19EE404</td>
-    <td>Digital Electronics</td>
-  </tr>
-  <tr>
-    <td>5.</td>
-    <td>19AI301</td>
-    <td>Python Programming</td>
-  </tr>
-  <tr>
-    <td>6.</td>
-    <td>19EN101</td>
-    <td>Communicative English</td>
-  </tr>
-  <tr>
-    <td>7.</td>
-    <td>19CS404</td>
-    <td>Principle of Chemistry in Engineering</td>
-  </tr>
-</table>
-
-</body>
-</html>
-  
+<center>
+<img src="C:\Users\sabuh\OneDrive\Documents\logo.jpg" height="100" width="540">
+</center>
+<br><br>
+<table align="center" border="2" cellpadding="10" bgcolor="white" >
+<caption><B>SLOT TIMETABLE- Abu Hanifa(24009356)</B></caption>
+<tr bgcolor="pink">
+<th bgcolor="LIGHTBLUE">DAY/TIME</th>
+<th>MONDAY</th>
+<th>TUESDAY</th>
+<th>WEDNESDAY</th>
+<TH>THURSDAY</TH>
+<TH>FRIDAY</TH>
+</tr>
+<tr bgcolor="lavender">
+<td bgcolor="orange"><b>8-10</b></td>
+<td><b>RPA</b></td>
+<td><b>FREE</b></td>
+<td><b>DE</b></td>
+<td><b>STATS</b></td>
+<td><b>FREE</b></td>
+</tr>
+<tr bgcolor="lavender">
+<td bgcolor="orange"><b>10-12</b></td>
+<td><b>C</b></td>
+<td><b>DE</b></td>
+<td><b>WEB</b></td>
+<td><b>CHEM</b></td>
+<td><b>C</b></td>
+</tr>
+<tr bgcolor="lightgreen">
+<td bgcolor="orange"><b>12-1</b><td colspan="10" align="CENTER"><b>LUNCH</b>
+</tr>
+<tr bgcolor="lavender">
+<td bgcolor="orange"><b>1-3</b</td>
+<td><b>FREE</b></td>
+<td><b>FREE</b></td>
+<td><b>MENTOR</b></td>
+<td><b>RPA</b></td>
+<td><b>WEB</b></td>
+</tr>
+</table><br><br>
+<table align="center" border="2" cellpadding="10"><b>
+<tr>
+<th>S.NO</th>
+<th>SUBJECT CODE</th>
+<th>SUBJECT NAME</th>
+</tr>
+<tr align="center">
+<td><b>1.</b></td>
+<td><b>19AI414</b></td>
+<Td><b>Fundamentals of Web Application(WEB)</b></Td>
+</tr>
+<tr>
+<th><b>2.</b></th>
+<th><b>19AI304</b></th>
+<th><b>Fundamentals of C programming(C)</b></th>
+</tr>
+<tr>
+<th><b>3.</b></th>
+<th><b>19CY205</b></th>
+<th><b>Principles of Chemistry in Engineering(CHEM)</b></th>
+</tr>
+<tr>
+<th><b>4.</b></th>
+<th><b>ECA-M</b></th>
+<TH><b>Mentor Meet(MENTOR)</b></TH>
+</tr>
+<tr>
+<th><b>5.</b></th>
+<th><b>19CS565</b></th>
+<th><b>Robotic Process Automation(RPA)</b></th>
+</tr>
+<tr>
+<th><b>6.</b></th>
+<th><b>19EE404</b></th>
+<th><b>Digital Electronics(DE)</b></th>
+</tr>
+</table></b>
 </body>
 </html>
 ```
 
 ## OUTPUT
 
-![alt text](<Screenshot 2025-04-11 152737.png>)
+![image](https://github.com/user-attachments/assets/da9fcb55-5115-40e8-9415-0b68b9c6a2bb)
+
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
